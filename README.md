@@ -1,4 +1,4 @@
-# React code for ccurrency converter, date and time interpretation to different countries.
+# React code for currency converter, date and time interpretation to different countries.
 
 TThis is a React App with a  currency converter user interface (UI), where the user can type the currency and change it from dollar to euro vise versa with the current date and time. Also, it included another user interface where the user writes text, and it reverses the text. It contains date and time interpretation to different countries.   Material UI is used as a third package.
 
